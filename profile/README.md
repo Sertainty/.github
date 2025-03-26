@@ -23,6 +23,8 @@ The UXP Object is an intelligent protective shell around critical data. It’s c
 
 Current production release (Note: does not contain mobile APIs - see v3.7 release)
 
+[Published release kits](https://github.com/Sertainty/Sertainty-SDK)
+
 
 [UXP Tools for Windows v4.0.1](https://github.com/Sertainty-Co/Sertainty-SDK/releases/tag/Win-v4.0.1)
 
