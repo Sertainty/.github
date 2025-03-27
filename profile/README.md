@@ -1,3 +1,4 @@
+#
 ![SRO_Logo_BK-smaller copy](https://github.com/user-attachments/assets/198d770e-5990-425c-a8aa-93f3ff1d9845)
 
 Sertainty UXP Technology focuses on protection at the data layer targeting any kind of unstructured datasets (excluding databases). UXP empowers data to manage and protect itself by controlling access anywhere and at any time. 
@@ -5,6 +6,12 @@ Sertainty UXP Technology focuses on protection at the data layer targeting any k
 UXP combines intelligence, protection and user datasets to transform data into a self-governing, self-protecting entity capable of enforcing owner-specified access controls or parameters and context. The transformation result is a UXP Object.
 
 The UXP Object is an intelligent protective shell around critical data. It’s capable of managing and controlling its own access to ultimately keep its content protected in any location. In this form, it acts and reacts based on owner-defined policy(s) beyond the owner’s environment. The data control remains with the owner at all times. It is never relinquished to an application nor vulnerable to super-user access. 
+
+
+#
+
+# Videos and Demos
+ - [Overview - marketing]()
 
 #
 
