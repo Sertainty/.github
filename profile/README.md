@@ -79,3 +79,5 @@ The Data Protector is a client-side desktop application that facilitates the con
   
   - Sales / Production license and pricing
 
+- [Sertainty website](https://www.sertainty.com/)
+
