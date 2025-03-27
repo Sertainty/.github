@@ -19,7 +19,7 @@ The UXP Object is an intelligent protective shell around critical data. It’s c
 - [Data Protector video tutorial series](#data=protector-video-tutorial-series)
 - [Licensing and contact info](#licensing-and-contact-info)
 
-# Video
+# Videos
  - [Overview video - Data Protector](https://github.com/Sertainty/Sertainty-SDK/wiki/Section-5-%E2%80%90-Videos-and-Demos#sertainty-data-protector)
 
  - [General demo - Data Protector application](https://us02web.zoom.us/clips/share/CoIGLy9XQPui80_dCjjEkg)
