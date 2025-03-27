@@ -70,12 +70,12 @@ The Data Protector is a client-side desktop application that facilitates the con
 
 ## Licensing and contact info
 
-- email [Sertainty Technology Support](tech-support@sertainty.com)
+- email tech-support@sertainty.com
 
   - Evaluation license / limited functionality and timeframe
   - Development license
 
-- email  [Sertainty Business Development](sales@sertainty.com)
+- email  Sertainty Business Development - sales@sertainty.com
   
   - Sales / Production license and pricing
 
