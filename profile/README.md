@@ -17,7 +17,7 @@ The UXP Object is an intelligent protective shell around critical data. It’s c
 - [API Documentation](#API-documentation)
 - [Technology Documentation](#technology-documentation)
 - [Code Examples](#Code-examples)
-- [Data Protector video tutorial series](#data-protector-video-tutorial-series)
+- [Data Protector video tutorial series](#data-protector-video-tutuorial-series)
 - [Licensing and contact info](#licensing-and-contact-info)
 
 # Videos
