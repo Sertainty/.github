@@ -30,7 +30,7 @@ The UXP Object is an intelligent protective shell around critical data. It’s c
 
 ## Release kits - Sertainty-SDK
 
-Current production release (Note: does not contain mobile APIs - see v3.7 release for mobile SDK / APIs)
+Current production release is v4.0.1 (Note: does not contain mobile APIs - see v3.7 release for mobile SDK / APIs)
 
 [Published release kits](https://github.com/Sertainty/Sertainty-SDK/releases)
 
