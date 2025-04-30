@@ -13,6 +13,7 @@ The UXP Object is an intelligent protective shell around critical data. It’s c
 # Site Menu
 
 
+- [Videos](#videos)
 - [Release Kits](#release-kits---sertainty-sdk)
 - [API Documentation](#API-documentation)
 - [Technology Documentation](#technology-documentation)
