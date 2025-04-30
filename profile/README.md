@@ -65,7 +65,7 @@ The Data Protector is a client-side desktop application that facilitates the con
 
 [Data Protector tutorial wiki page](https://github.com/Sertainty-Co/Sertainty-SDK/wiki/Section-3-%E2%80%90-Data-Protector-tutorial)
 
-[Sample usescases wiki page](https://github.com/Sertainty-Co/Sertainty-SDK/wiki/Section-4-%E2%80%90-Data-Protector-Usecases)
+[Sample usescases wiki page](https://github.com/Sertainty-Co/Sertainty-SDK/wiki/Section-4-%E2%80%90-Data-Protector)
 
 [General demo - Data Protector application](https://us02web.zoom.us/clips/share/CoIGLy9XQPui80_dCjjEkg)
 
