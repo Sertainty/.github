@@ -52,7 +52,7 @@ API documentation is located on the Wiki page as well as included with each SDK 
 
 Technical documentation is located on the Wiki page as well as included with each SDK kit
 
-[Tech docs and "how it works" videos](https://github.com/Sertainty-Co/Sertainty-SDK/wiki/Section-2-%E2%80%90-Technical-Documentation)
+[Tech docs and "how it works" videos](https://github.com/Sertainty/Sertainty-main/wiki/Section-2-%E2%80%90-UXP-Technical-Guides-and-Overview-Documentation)
 #
 ## Code Examples
 
