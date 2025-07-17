@@ -70,7 +70,8 @@ The Data Protector is a client-side desktop application that facilitates the con
 
 [General demo - Data Protector application](https://us02web.zoom.us/clips/share/CoIGLy9XQPui80_dCjjEkg)
 
-## Licensing and contact info
+#
+# Licensing and contact info
 
 - email tech-support@sertainty.com
 
@@ -81,5 +82,6 @@ The Data Protector is a client-side desktop application that facilitates the con
   
   - Sales / Production license and pricing
 
+##
 - [Sertainty website](https://www.sertainty.com/)
 
