@@ -33,7 +33,7 @@ This release includes two SDK editions.
    - Includes Services and UXL scripting capabilities
    - 2 additional technology guides - Sertainty Services Guide and Sertainty Scripting Guide
 
-  Target release date is June 1, 2026. 
+  Target release date for v5.0 is June 1, 2026; v26.0 will follow later in the quarter.
 
 # Licensing and contact info
 
