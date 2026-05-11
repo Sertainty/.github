@@ -31,6 +31,7 @@ This release includes two SDK editions.
 
  - v26.0 - Sertainty Enterprise - will include everything in v5.0 plus the following additional content
    - Includes Services and UXL scripting capabilities
+   - Utilites applications
    - 2 additional technology guides - Sertainty Services Guide and Sertainty Scripting Guide
 
   Target release date for v5.0 is June 1, 2026; v26.0 will follow later in the quarter.
