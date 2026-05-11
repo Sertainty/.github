@@ -13,11 +13,13 @@ Control stays with the owner at all times — the data remains protected even ag
 #
 ## Upcoming Release v5.0 / v26.0
 
-This release includes two SDK editions. There are some significant upgrades to v5.0/v26.
+There are some significant upgrades in the next release.
  - Hardening of the patented, proprietary technology platform
  - Encryption module is now FIPS 140-3 certified from WolfSSL
  - SDK binaries/libraries move from self-signed to 3rd party code signed by DigiCert
  - Upgrade to licensing security
+
+This release includes two SDK editions.
 
  - v5.0 - Sertainty Developers - This version is solely targeted at the developer community. The kit will ship with our core libraries only.
    -  supported APIs (C++, C)
