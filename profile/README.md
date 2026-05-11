@@ -15,8 +15,8 @@ Control stays with the owner at all times — the data remains protected even ag
 
 There are some significant upgrades in the next release.
  - Hardening of the patented, proprietary technology platform
- - Encryption module is now FIPS 140-3 certified from WolfSSL
- - SDK binaries/libraries move from self-signed to 3rd party code signed by DigiCert
+ - Encryption module is now FIPS 140-3 certified
+ - SDK binaries/libraries move from self-signed to 3rd party code signed by a CA
  - Upgrade to licensing security
 
 This release includes two SDK editions.
@@ -25,7 +25,7 @@ This release includes two SDK editions.
    -  supported APIs (C++, C)
    -  API documentation
    -  Basic code examples
-   -  1 supporting tech guides - Sertainty Technology Guide
+   -  1 supporting tech guide - Sertainty Technology Guide
    -  FAQs
    -  Additional Supported wrappers will be located in Github
 
