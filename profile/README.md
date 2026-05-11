@@ -10,8 +10,8 @@ Sertainty UXP Technology protects data at the file level by embedding access con
 UXP combines data, access policies, and user credentials into a single encrypted construct called a UXP Object. The owner defines who can access the data, when, and under what conditions. Those rules are enforced by the object itself, without relying on perimeter security or third-party applications.
 
 Control stays with the owner at all times — the data remains protected even against super-user access.
-
-# 
+#
+## Upcoming Release v5.0 / v26.0
 We are currently updating our Github presence in preparation for our upcoming major release.  There are some significant upgrades to v5.0/v26.
  - Hardening of the patented, proprietary technology platform
  - Encryption module is now FIPS 140-3 certified from WolfSSL
@@ -27,7 +27,7 @@ We will have two flavors of our SDK
    -  FAQs
    -  Additional Supported wrappers will be located in Github
 
- - v26 - Sertainty Enterprise - will include everything in v5.0 plus the following additional content
+ - v26.0 - Sertainty Enterprise - will include everything in v5.0 plus the following additional content
    - Includes Services and UXL scripting capabilities
    - 2 additional technology guides - Sertainty Services Guide and Sertainty Scripting Guide
 
