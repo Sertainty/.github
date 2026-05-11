@@ -2,6 +2,9 @@
 #
 ![SRO_Logo_BK-smaller copy](https://github.com/user-attachments/assets/198d770e-5990-425c-a8aa-93f3ff1d9845)
 
+## Embed access controls directly into your data — protection that travels with the file, everywhere it goes.
+
+#
 Sertainty UXP Technology protects data at the file level by embedding access controls directly into the data itself — so protection travels with it regardless of location or application.
 
 UXP combines data, access policies, and user credentials into a single encrypted construct called a UXP Object. The owner defines who can access the data, when, and under what conditions. Those rules are enforced by the object itself, without relying on perimeter security or third-party applications.
