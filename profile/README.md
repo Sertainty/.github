@@ -2,73 +2,34 @@
 #
 ![SRO_Logo_BK-smaller copy](https://github.com/user-attachments/assets/198d770e-5990-425c-a8aa-93f3ff1d9845)
 
-Sertainty UXP Technology focuses on protection at the data layer targeting any kind of unstructured datasets (excluding databases). UXP empowers data to manage and protect itself by controlling access anywhere and at any time. 
+Sertainty UXP Technology protects data at the file level by embedding access controls directly into the data itself — so protection travels with it regardless of location or application.
 
-UXP combines intelligence, protection and user datasets to transform data into a self-governing, self-protecting entity capable of enforcing owner-specified access controls or parameters and context. The transformation result is a UXP Object.
+UXP combines data, access policies, and user credentials into a single encrypted construct called a UXP Object. The owner defines who can access the data, when, and under what conditions. Those rules are enforced by the object itself, without relying on perimeter security or third-party applications.
 
-The UXP Object is an intelligent protective shell around critical data. It’s capable of managing and controlling its own access to ultimately keep its content protected in any location. In this form, it acts and reacts based on owner-defined policy(s) beyond the owner’s environment. The data control remains with the owner at all times. It is never relinquished to an application nor vulnerable to super-user access. 
+Control stays with the owner at all times — the data remains protected even against super-user access.
 
 # 
+We are currently updating our Github presense in preparation for our upcoming major release.  There are some significant upgrades to v5.0/v26.
+ - Hardening of the patented, proprietary technology platform
+ - Encryption module is now FIPS 140-3 certified from WolfSSL
+ - SDK biniaries/libraries move from self-signed to 3rd party code signed by DigiCert
+ - Upgrade to licensing security
 
-# Site Menu
+We will have two flavors of our SDK
+ - v5.0 - Sertainty Developers - This version is solely targeted at the developer community. The kit will ship with our core libraries only.
+   -  supported APIs (C++, C)
+   -  API documentation
+   -  Basic code examples
+   -  1 supporting tech guides - Sertainty Technology Gude
+   -  FAQs
+   -  Additional Supported wrappers will be located in Github
 
+ - v26 - Sertainty Enterpise - will include everything in v5.0 plus the following additional content
+   - Includes Services and UXL cripting capabilities
+   - 2 additional technology guides - Sertainty Services Guide and Sertainty Scripting Guide
 
-- [Videos](#videos)
-- [Release Kits](#release-kits---sertainty-sdk)
-- [API Documentation](#API-documentation)
-- [Technology Documentation](#technology-documentation)
-- [Code Examples](#Code-examples)
-- [Data Protector video tutorial series](#data-protector-video-tutuorial-series)
-- [Licensing and contact info](#licensing-and-contact-info)
-#
-## Videos
- - [Videos, Demos and supporting content](https://github.com/Sertainty/Sertainty-main/wiki/Section-5-%E2%80%90-Videos,-Demos,-and-supporting-content)
+  Target release date is June 1, 2026
 
-#
-
-
-## Release kits - Sertainty-SDK
-
-Current production release is v4.0.1 (Note: does not contain mobile APIs - see v3.7 release for mobile SDK / APIs)
-
-[Published release kits](https://github.com/Sertainty/Sertainty-SDK/releases)
-
-
-[UXP Tools for Windows v4.0.1](https://github.com/Sertainty-Co/Sertainty-SDK/releases/tag/Win-v4.0.1)
-
-[UXP Tools for Mac v4.0.1](https://github.com/Sertainty-Co/Sertainty-SDK/releases/tag/Mac-v4.0.1)
-
-[UXP Tools for Linux v4.0.1](https://github.com/Sertainty-Co/Sertainty-SDK/releases/tag/Linux-v4.0.1)
-#
-## API documentation
-
-API documentation is located on the Wiki page as well as included with each SDK kit
-
-[API Wiki page](https://github.com/Sertainty-Co/Sertainty-SDK/wiki/Section-1-%E2%80%90-API-documentation)
-#
-## Technology Documentation
-
-Technical documentation is located on the Wiki page as well as included with each SDK kit
-
-[Tech docs and "how it works" videos](https://github.com/Sertainty/Sertainty-main/wiki/Section-2-%E2%80%90-UXP-Technical-Guides-and-Overview-Documentation)
-#
-## Code Examples
-
-Code examples are included in each SDK:
-  - for C, C++, C#, UXL (scripting), Mobile
-  - [Code samples - repo](https://github.com/Sertainty/Code_samples)
-#
-## Data Protector video tutuorial series
-
-The Data Protector is a client-side desktop application that facilitates the configuration in support of an autmoated file protection and access workflow.  Each video demostrates the steps to prepare and setup a workflow. 
-
-[Data Protector tutorial wiki page](https://github.com/Sertainty-Co/Sertainty-SDK/wiki/Section-3-%E2%80%90-Data-Protector-tutorial)
-
-[Sample usescases wiki page](https://github.com/Sertainty-Co/Sertainty-SDK/wiki/Section-4-%E2%80%90-Data-Protector)
-
-[General demo - Data Protector application](https://youtu.be/yf10BbQdnMw)
-
-#
 # Licensing and contact info
 
 - email tech-support@sertainty.com
