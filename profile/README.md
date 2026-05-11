@@ -12,10 +12,10 @@ UXP combines data, access policies, and user credentials into a single encrypted
 Control stays with the owner at all times — the data remains protected even against super-user access.
 
 # 
-We are currently updating our Github presense in preparation for our upcoming major release.  There are some significant upgrades to v5.0/v26.
+We are currently updating our Github presence in preparation for our upcoming major release.  There are some significant upgrades to v5.0/v26.
  - Hardening of the patented, proprietary technology platform
  - Encryption module is now FIPS 140-3 certified from WolfSSL
- - SDK biniaries/libraries move from self-signed to 3rd party code signed by DigiCert
+ - SDK binaries/libraries move from self-signed to 3rd party code signed by DigiCert
  - Upgrade to licensing security
 
 We will have two flavors of our SDK
@@ -23,12 +23,12 @@ We will have two flavors of our SDK
    -  supported APIs (C++, C)
    -  API documentation
    -  Basic code examples
-   -  1 supporting tech guides - Sertainty Technology Gude
+   -  1 supporting tech guides - Sertainty Technology Guide
    -  FAQs
    -  Additional Supported wrappers will be located in Github
 
- - v26 - Sertainty Enterpise - will include everything in v5.0 plus the following additional content
-   - Includes Services and UXL cripting capabilities
+ - v26 - Sertainty Enterprise - will include everything in v5.0 plus the following additional content
+   - Includes Services and UXL scripting capabilities
    - 2 additional technology guides - Sertainty Services Guide and Sertainty Scripting Guide
 
   Target release date is June 1, 2026
