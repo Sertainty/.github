@@ -16,7 +16,7 @@ Control stays with the owner at all times — the data remains protected even ag
 There are some significant upgrades in the next release.
  - Hardening of the patented, proprietary technology platform
  - Encryption module is now FIPS 140-3 certified
- - SDK binaries/libraries move from self-signed to 3rd party code signed by a CA
+ - SDK binaries/libraries move from self-signed to 3rd party code signed by a trusted CA
  - Upgrade to licensing security
 
 This release includes two SDK editions.
