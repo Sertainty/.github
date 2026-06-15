@@ -4,7 +4,7 @@
 
 # Sertainty
 
-### Embed access controls directly into your data — protection that travels with the file, everywhere it goes.
+### Embed access controls directly into your data —<br>protection that travels with the file, everywhere it goes.
 
 [![Website](https://img.shields.io/badge/Website-sertainty.com-1e2327?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.sertainty.com/)
 [![Contact](https://img.shields.io/badge/Contact-Sales%20%26%20Support-0a66c2?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:sales@sertainty.com)
