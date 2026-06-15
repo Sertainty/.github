@@ -27,7 +27,7 @@ UXP combines data, access policies, and user credentials into a single encrypted
 
 ---
 
-## Upcoming Release — v5.0 / v26.0
+## Upcoming Release — v5.0 / v5.1
 
 This release brings significant upgrades to the platform:
 
