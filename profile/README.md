@@ -40,7 +40,7 @@ This release brings significant upgrades to the platform:
 
 The release ships in two editions. Enterprise includes everything in Developers, plus services and scripting.
 
-| Feature | v5.0 · Developers | v26.0 · Enterprise |
+| Feature | v5.0 · Developers | v5.1 · Enterprise |
 | :--- | :---: | :---: |
 | Target audience | Developer community | Production / enterprise |
 | Core libraries | ✓ | ✓ |
