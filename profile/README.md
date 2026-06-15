@@ -7,6 +7,7 @@
 ### Embed access controls directly into your data —<br>protection that travels with the file, everywhere it goes.
 
 [![Website](https://img.shields.io/badge/Website-sertainty.com-1e2327?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.sertainty.com/)
+[![Knowledge Base](https://img.shields.io/badge/Knowledge%20Base-Read%20the%20Docs-4f46e5?style=for-the-badge&logo=readthedocs&logoColor=white)](https://sertainty.github.io/knowledge-base/)
 [![Contact](https://img.shields.io/badge/Contact-Sales%20%26%20Support-0a66c2?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:sales@sertainty.com)
 
 **Encryption module — FIPS 140-3 Certified**
