@@ -1,52 +1,74 @@
-[Sertainty website](https://www.sertainty.com/)
-#
+<div align="center">
+
+<img src="https://avatars.githubusercontent.com/u/203710473?s=200&v=4" alt="Sertainty" width="110" />
+
+# Sertainty
+
+### Embed access controls directly into your data — protection that travels with the file, everywhere it goes.
+
+[![Website](https://img.shields.io/badge/Website-sertainty.com-1e2327?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.sertainty.com/)
+[![Contact](https://img.shields.io/badge/Contact-Sales%20%26%20Support-0a66c2?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:sales@sertainty.com)
+
+**Encryption module — FIPS 140-3 Certified**
 
 
-## Embed access controls directly into your data — protection that travels with the file, everywhere it goes.
+</div>
 
-#
-Sertainty UXP Technology protects data at the file level by embedding access controls directly into the data itself — so protection travels with it regardless of location or application.
+---
 
-UXP combines data, access policies, and user credentials into a single encrypted construct called a UXP Object. The owner defines who can access the data, when, and under what conditions. Those rules are enforced by the object itself, without relying on perimeter security or third-party applications.
+## What is UXP?
 
-Control stays with the owner at all times — the data remains protected even against super-user access.
-#
-## Upcoming Release v5.0 / v26.0
+Sertainty **UXP Technology** protects data at the file level by embedding access controls directly into the data itself — so protection travels with it regardless of location or application.
 
-There are some significant upgrades in the next release.
- - Hardening of the patented, proprietary technology platform
- - Encryption module is now FIPS 140-3 certified
- - SDK binaries/libraries move from self-signed to 3rd party code signed by a trusted CA
- - Upgrade to licensing security
+UXP combines data, access policies, and user credentials into a single encrypted construct called a **UXP Object**. The owner defines who can access the data, when, and under what conditions. Those rules are enforced by the object itself, without relying on perimeter security or third-party applications.
 
-This release includes two SDK editions.
+> **Control stays with the owner at all times** — the data remains protected even against super-user access.
 
- - v5.0 - Sertainty Developers - This version is solely targeted at the developer community. The kit will ship with our core libraries only.
-   -  supported APIs (C++, C)
-   -  API documentation
-   -  Basic code examples
-   -  1 supporting tech guide - Sertainty Technology Guide
-   -  FAQs
-   -  Additional Supported wrappers will be located in Github
+---
 
- - v26.0 - Sertainty Enterprise - will include everything in v5.0 plus the following additional content
-   - Includes Services and UXL scripting capabilities
-   - Utility applications
-   - 2 additional technology guides - Sertainty Services Guide and Sertainty Scripting Guide
+## Upcoming Release — v5.0 / v26.0
 
-  Target release date for v5.0 is June 1, 2026; v26.0 will follow later in the quarter.
+This release brings significant upgrades to the platform:
 
-# Licensing and contact info
+- **Platform hardening** of the patented, proprietary technology
+- **Encryption module is now FIPS 140-3 certified**
+- **SDK binaries & libraries** are now third-party code-signed by a trusted CA (previously self-signed)
+- **Upgraded licensing security**
 
-- email tech-support@sertainty.com
+### SDK Editions
 
-  - Evaluation license / limited functionality and timeframe
-  - Development license
+The release ships in two editions. Enterprise includes everything in Developers, plus services and scripting.
 
-- email  Sertainty Business Development - sales@sertainty.com
-  
-  - Sales / Production license and pricing
+| Feature | v5.0 · Developers | v26.0 · Enterprise |
+| :--- | :---: | :---: |
+| Target audience | Developer community | Production / enterprise |
+| Core libraries | ✓ | ✓ |
+| Supported APIs (C++, C) | ✓ | ✓ |
+| API documentation | ✓ | ✓ |
+| Basic code examples | ✓ | ✓ |
+| FAQs | ✓ | ✓ |
+| Sertainty Technology Guide | ✓ | ✓ |
+| Services & UXL scripting | — | ✓ |
+| Utility applications | — | ✓ |
+| Services & Scripting Guides | — | ✓ |
 
-##
-- [Sertainty website](https://www.sertainty.com/)
+> Additional supported wrappers are published here on GitHub.
 
+**Target release:** v5.0 — June 22, 2026 · v26.0 to follow later in the quarter.
+
+---
+
+## Licensing & Contact
+
+| What you need | Where to reach us |
+| :--- | :--- |
+| **Evaluation license** (limited functionality / timeframe) or **Development license** | [tech-support@sertainty.com](mailto:tech-support@sertainty.com) |
+| **Sales / Production license & pricing** | [sales@sertainty.com](mailto:sales@sertainty.com) |
+
+---
+
+<div align="center">
+
+[**sertainty.com**](https://www.sertainty.com/) · Protect your data at the source.
+
+</div>
