@@ -56,7 +56,7 @@ The release ships in two editions. Enterprise includes everything in Developers,
 
 > Additional supported wrappers are published here on GitHub.
 
-**Target release:** v5.0 — June 22, 2026 · v5.1 to follow later in the quarter.
+**Target release:**  Enterprise v5.1 to follow later in the quarter.
 
 ---
 
