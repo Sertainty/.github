@@ -58,6 +58,7 @@ The release ships in two editions. Enterprise includes everything in Developers,
 > Additional supported wrappers are published here on GitHub.
 
 **Target release:**  Enterprise v5.1 to follow later in the quarter.
+> **Note:** Sertainty v4 and all earlier releases have been sunset and are no longer supported.
 
 ---
 
