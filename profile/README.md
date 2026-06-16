@@ -47,7 +47,7 @@ The release ships in two editions. Enterprise includes everything in Developers,
 | Supported APIs (C++, C) | ✓ | ✓ |
 | API documentation | ✓ | ✓ |
 | Basic code examples | ✓ | ✓ |
-| FAQs | ✓ | ✓ |
+| Knowledge Base (bundled copy) | ✓ | ✓ |
 | Sertainty Technology Guide | ✓ | ✓ |
 | Services & UXL scripting | — | ✓ |
 | Utility applications | — | ✓ |
