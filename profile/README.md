@@ -22,7 +22,7 @@
 
 Sertainty **UXP Technology** protects data at the file level by embedding access controls directly into the data itself — so protection travels with it regardless of location or application.
 
-UXP combines data, access policies, and user credentials into a single encrypted construct called a **Vault**. UXP is the *how*; the Vault is the *what*. The owner defines who can access the data, when, and under what conditions. Those rules are enforced by the object itself, without relying on perimeter security or third-party applications.
+UXP combines data, access policies, and user credentials into a single encrypted construct called a **Vault**. UXP is the *how*; the Vault is the *what*. The owner defines who can access the data, when, and under what conditions. Those rules are enforced by the Vault itself, without relying on perimeter security or third-party applications.
 
 > **Control stays with the owner at all times** — the data remains protected even against super-user access.
 
