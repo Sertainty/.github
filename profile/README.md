@@ -74,8 +74,9 @@ Applications built with the SDK and the TechHub desktop app do not require a ser
 All kits are supported by the [Knowledge Base](https://sertainty.github.io/knowledge-base/), live on GitHub since September 2026 and updated on an ongoing basis.
 
 ### Platforms
+### Platforms
 
-| | Windows 11 (64-bit) | macOS (Apple Silicon) | Linux (64-bit) |
+| | Windows 11 (x86 64-bit) | macOS (Arm64 / Apple Silicon) | Linux (x86 64-bit) |
 | :--- | :---: | :---: | :---: |
 | TechHub | ✓ | ✓ | — |
 | Developer | ✓ | ✓ | ✓ |
